@@ -39,6 +39,6 @@ binary_sensor:
       number: D6
       mode: INPU_PULLUP
     name: "not_In_Home"
-      
+
   - platform: status
     name: "Door Status"
