@@ -1,6 +1,6 @@
 <h1> Rakshak - Apartment Security System. </h1>
   
-  I have developed a real time security system `RAKSHAK` which will instantly notify the owner of the apartment if Intruder/Burglar tries to break through door or window.
+  We are developing a real time security system `RAKSHAK` which will instantly notify the owner of the apartment if Intruder/Burglar tries to break through door or window.
 
 <img  width="500" src="https://github.com/harshitg123/TECH_JOURNAL/blob/main/public/images/construction.png"/>
 
